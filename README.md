@@ -1,2 +1,2 @@
-# Learning HTML, CSS & JavaScript
+# Learning HTML
 Professor Stephen Gilbert
